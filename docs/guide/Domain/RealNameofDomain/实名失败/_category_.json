@@ -1,0 +1,8 @@
+{
+  "label": "实名失败",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "请选择您创建模板时选择的用户类型："
+  }
+}
