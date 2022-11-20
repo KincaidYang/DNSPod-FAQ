@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 description: 域名转入相关问题（为什么域名好多天还没转入腾讯云）
 ---
 # 域名转入

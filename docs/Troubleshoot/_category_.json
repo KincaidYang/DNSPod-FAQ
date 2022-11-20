@@ -1,0 +1,8 @@
+{
+  "label": "网站自助排障",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "请先点击故障表现查看是否有相似问题，再根据提示点击相应的故障解决方案"
+  }
+}

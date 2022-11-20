@@ -21,4 +21,4 @@ GitHub：您可通过 [GitHub 仓库](https://github.com/KincaidYang/DNSPod-FAQ)
 
 微信群：您可通过[DNSPod 官方微信群](https://qcloudimg.tencent-cloud.cn/raw/37d34094aa83df21e14d845b28844bbc.png)与我们联系反馈，我们会及时处理您的问题和建议。
 
-邮件：您可通过 [开发者邮箱](mailto:yjz@r2wind.org)与我们联系反馈。
+邮件：您可通过 [邮箱](mailto:yjz@r2wind.org)与我们联系反馈。

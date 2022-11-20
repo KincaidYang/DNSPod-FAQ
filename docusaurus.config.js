@@ -71,11 +71,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '教程',
             items: [
               {
-                label: '文档',
-                to: '/docs/intro',
+                label: '介绍',
+                to: '/',
+              },
+              {
+                label: 'FAQ',
+                to: '/category/faq',
+              },
+              {
+                label: '自助排障',
+                to: '/category/网站自助排障',
               },
             ],
           },
@@ -83,16 +91,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'DNSPod 公众号',
+                href: 'https://cloudcache.tencent-cloud.cn/open_proj/proj_qcloud_v2/tc-console/dnspod/gateway/css/img/wechat.png',
               },
             ],
           },
@@ -100,8 +100,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'DNSPod 官网',
+                href: 'https://www.dnspod.cn/',
+              },
+              {
+                label: 'DNSPod 域名检测工具',
+                href: 'https://tool.dnspod.cn/',
               },
               {
                 label: 'GitHub',
