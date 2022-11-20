@@ -13,7 +13,10 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.jpg',
-
+  scripts: [
+    'https://cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js',
+    'https://resources.r2wind.cn/js/smbwiki.js',
+  ],
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'KincaidYang', // Usually your GitHub org/user name.
