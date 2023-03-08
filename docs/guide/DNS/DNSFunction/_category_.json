@@ -1,0 +1,8 @@
+{
+  "label": "功能概览",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "产品功能概览，不同解析套餐版本产品功能存在差异，请以https://price.dnspod.cn/dns/ 为准。"
+  }
+}
